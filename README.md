@@ -1,2 +1,2 @@
-# online photography
+# Online photography
 Using HTML and CSS.
